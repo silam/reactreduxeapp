@@ -73,3 +73,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 =============
 
 npm install  @reactjs/toolkit react-redux 
+nanoid: auto generate id like uuid
+
+
